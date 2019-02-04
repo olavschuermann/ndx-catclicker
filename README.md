@@ -1,4 +1,4 @@
-# Portfolio Website (Project 1 / HTML5 / Responsive Web Design)
+# Cat Clicker (Project Udacity ND FD Lession 7-1)
 
 ## Table of Contents
 
@@ -6,7 +6,7 @@
 - [Instructions](#instructions)
 
 ## About
-This **Portfolio Website** is part of of the Udacity Nanodegree Program **Front-End Web Developer**. Every student has to complete the task on their own. I created the first version of the project in December 2018.
+This is the **Cat Clicker Project** from the Udacity Nanodegree Program **Front-End Web Developer**, Lession 7-1. 
 
 ## Instructions
 
