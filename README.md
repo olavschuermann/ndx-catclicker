@@ -6,7 +6,7 @@
 - [Instructions](#instructions)
 
 ## About
-This is the **Cat Clicker Project** from the Udacity Nanodegree Program **Front-End Web Developer**, Lession 7-1. 
+This is the **Cat Clicker Project** from the Udacity Nanodegree Program **Front-End Web Developer**, Lesson 7-1. 
 
 ## Instructions
 
