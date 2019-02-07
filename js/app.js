@@ -15,9 +15,6 @@ catNames.forEach(function(cat) {
     theCat = `${cat}`;
     li.appendChild(document.createTextNode(theCat));
     ul.appendChild(li);
-    //let textnode = document.createTextNode = `${cat}`;         // Create a text node
-    //node.appendChild(textnode);                              // Append the text to <li>
-    //cats.appendChild(node);
 })
 
 /*
