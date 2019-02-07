@@ -18,12 +18,12 @@ catNames.sort(function(a, b){
 console.log(catNames);
 
 // Version 3 with a list of at least 5 cats, listed by name + an area to display the selected cat
-// List the cats by name in an ul-list, left side
 catNames.forEach(function(cat) {
     let ul = document.getElementById('catNamesList');
     // console.log(cat);
 
-    let li = document.createElement("LI");                 // Create a <li> node
+    // List the cats by name in an ul-list, left side
+    let li = document.createElement("li");                
     let theCat = `${cat[0]}`;
     li.appendChild(document.createTextNode(theCat));
     ul.appendChild(li);
