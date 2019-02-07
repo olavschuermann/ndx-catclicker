@@ -11,3 +11,5 @@ This is the **Cat Clicker Project** from the Udacity Nanodegree Program **Front-
 ## Instructions
 
 Just download or clone the project and use it as a starting point for your own project.
+
+Start the project by opening index.html in your favourite browser.
