@@ -2,10 +2,6 @@ body {
     text-align: center;
 }
 
-#cat-image, #cat-image2 {
-    cursor: pointer;
-}
-
 #cat1, #cat2 {
     padding: 25px 25px 10px 25px;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,4 +12,18 @@ body {
     display: grid;
     grid-column-gap: 25px;
     grid-template-columns:40% 60%; 
+}
+
+#catNamesList {
+    text-align: left;
+}
+
+#catNamesList ul {
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+}
+
+#catNamesList LI {
+    cursor: pointer;
 }
