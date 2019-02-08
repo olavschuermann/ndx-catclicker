@@ -2,6 +2,10 @@ body {
     text-align: center;
 }
 
+H1, H2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #cat1, #cat2 {
     padding: 25px 25px 10px 25px;
     font-family: Arial, Helvetica, sans-serif;
@@ -11,11 +15,16 @@ body {
 .container {
     display: grid;
     grid-column-gap: 25px;
-    grid-template-columns:40% 60%; 
+    grid-template-columns: 30% 70%; 
+}
+
+#cell1 {
+    justify-self: end;
 }
 
 #catNamesList {
     text-align: left;
+    padding-top: 35px;
 }
 
 #catNamesList ul {
@@ -26,4 +35,12 @@ body {
 
 #catNamesList LI {
     cursor: pointer;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+#catListName {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    padding-bottom: 20px;
 }
